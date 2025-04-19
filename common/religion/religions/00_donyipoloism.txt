@@ -232,11 +232,7 @@
 			icon = donyipoloism
 			reformed_icon = donyipoloism_reformed
 			
-			holy_site = itanagar
-			holy_site = pemako
-			holy_site = rima
-			holy_site = tezu
-			holy_site = ilam
+			holy_site = jenne
 			
 			doctrine = unreformed_faith_doctrine
 			
@@ -252,11 +248,7 @@
 			icon = sedism
 			reformed_icon = sedism_reformed
 			
-			holy_site = itanagar
-			holy_site = pemako
-			holy_site = rima
-			holy_site = tezu
-			holy_site = ilam
+			holy_site = jenne
 			
 			doctrine = unreformed_faith_doctrine
 			

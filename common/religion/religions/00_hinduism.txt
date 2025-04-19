@@ -240,13 +240,7 @@
 			color = { 1.0 0.0 0.0 }
 			icon = hinduism
 
-			holy_site = varanasi
-			holy_site = ayodhya
-			holy_site = mathura
-			holy_site = haridwar
-			holy_site = kanchipuram
-			holy_site = ujjayini
-			holy_site = dwarka
+			holy_site = jenne
 
 			doctrine = tenet_reincarnation
 			doctrine = tenet_bhakti
@@ -304,13 +298,7 @@
 			color = { 0.8 0.2 0.0 }
 			icon = advaitism
 
-			holy_site = varanasi
-			holy_site = ayodhya
-			holy_site = mathura
-			holy_site = haridwar
-			holy_site = kanchipuram
-			holy_site = ujjayini
-			holy_site = dwarka
+			holy_site = jenne
 
 			doctrine = tenet_reincarnation
 			doctrine = tenet_monasticism
@@ -328,13 +316,7 @@
 			color = { 0.9 0.2 0.3 }
 			icon = shaivism
 
-			holy_site = varanasi
-			holy_site = ayodhya
-			holy_site = mathura
-			holy_site = haridwar
-			holy_site = kanchipuram
-			holy_site = ujjayini
-			holy_site = dwarka
+			holy_site = jenne
 
 			doctrine = tenet_reincarnation
 			doctrine = tenet_monasticism
@@ -404,13 +386,7 @@
 			color = { 0.7 0.5 0.0 }
 			icon = srikula_shaktism
 
-			holy_site = varanasi
-			holy_site = ayodhya
-			holy_site = mathura
-			holy_site = haridwar
-			holy_site = kanchipuram
-			holy_site = ujjayini
-			holy_site = dwarka
+			holy_site = jenne
 
 			doctrine = tenet_reincarnation
 			doctrine = tenet_ritual_hospitality
@@ -441,13 +417,7 @@
 			color = { 0.5 0.2 0.0 }
 			icon = kalikula_shaktism
 
-			holy_site = varanasi
-			holy_site = ayodhya
-			holy_site = mathura
-			holy_site = haridwar
-			holy_site = kanchipuram
-			holy_site = ujjayini
-			holy_site = dwarka
+			holy_site = jenne
 
 			doctrine = tenet_reincarnation
 			doctrine = tenet_ritual_hospitality
@@ -477,13 +447,7 @@
 			color = { 1.0 0.3 0.3 }
 			icon = smartism
 
-			holy_site = varanasi
-			holy_site = ayodhya
-			holy_site = mathura
-			holy_site = haridwar
-			holy_site = kanchipuram
-			holy_site = ujjayini
-			holy_site = dwarka
+			holy_site = jenne
 
 			doctrine = tenet_reincarnation
 			doctrine = tenet_monasticism
@@ -532,13 +496,7 @@
 			color = { 1.0 0.0 0.5 }
 			icon = krishnaism
 
-			holy_site = varanasi
-			holy_site = ayodhya
-			holy_site = mathura
-			holy_site = haridwar
-			holy_site = kanchipuram
-			holy_site = ujjayini
-			holy_site = dwarka
+			holy_site = jenne
 
 			doctrine = tenet_reincarnation
 			doctrine = tenet_esotericism
@@ -596,13 +554,7 @@
 			color = { 255 105 170 }
 			icon = hinduism_saura
 
-			holy_site = varanasi
-			holy_site = ayodhya
-			holy_site = mathura
-			holy_site = haridwar
-			holy_site = kanchipuram
-			holy_site = ujjayini
-			holy_site = dwarka
+			holy_site = jenne
 
 			doctrine = tenet_sun_worship
 			doctrine = tenet_esotericism

@@ -241,11 +241,7 @@
 			color = { 0.2 0.2 0.7 }
 			icon = yazidism
 
-			holy_site = sinjar
-			holy_site = baalbek
-			holy_site = lalish
-			holy_site = nishapur
-			holy_site = dashtestan
+			holy_site = jenne
 
 			#Tenet
 			doctrine = tenet_communal_identity
@@ -257,11 +253,7 @@
 			color = { 0.5 0.1 0.5 }
 			icon = meshefaresism
 
-			holy_site = sinjar
-			holy_site = baalbek
-			holy_site = lalish
-			holy_site = nishapur
-			holy_site = dashtestan
+			holy_site = jenne
 
 			#Tenet
 			doctrine = tenet_islamic_syncretism
@@ -279,11 +271,7 @@
 			color = { 0.1 0.1 0.8 }
 			icon = kitebacilweism
 
-			holy_site = sinjar
-			holy_site = baalbek
-			holy_site = lalish
-			holy_site = nishapur
-			holy_site = dashtestan
+			holy_site = jenne
 
 			#Tenet
 			doctrine = tenet_literalism

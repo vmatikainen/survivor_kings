@@ -219,11 +219,7 @@
 			icon = pagan_magyar
 			reformed_icon = pagan_magyar_reformed
 
-			holy_site = pest
-			holy_site = kerch
-			holy_site = olvia
-			holy_site = poszony
-			holy_site = sarysyn
+			holy_site = jenne
 
 			doctrine = unreformed_faith_doctrine
 

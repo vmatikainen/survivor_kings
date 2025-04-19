@@ -217,11 +217,7 @@ kushitism_religion = {
 			icon = kushism
 			reformed_icon = kushism_reformed
 
-			holy_site = aswan
-			holy_site = wadi_el_milk
-			holy_site = naqis
-			holy_site = sennar
-			holy_site = el_fasher
+			holy_site = jenne
 
 			doctrine = unreformed_faith_doctrine
 

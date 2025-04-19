@@ -218,11 +218,7 @@ waaqism_religion = {
 			icon = waaqism
 			reformed_icon = waaqism_reformed
 
-			holy_site = danakil
-			holy_site = kaffa
-			holy_site = harar
-			holy_site = makhir
-			holy_site = mogadishu
+			holy_site = jenne
 
 			doctrine = unreformed_faith_doctrine
 

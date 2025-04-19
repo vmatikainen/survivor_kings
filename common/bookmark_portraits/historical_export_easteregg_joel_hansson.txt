@@ -2,7 +2,7 @@
 # History database id:easteregg_joel_hansson
 historical_export_easteregg_joel_hansson={
 	type=male
-	id=18361
+	id=16614
 	age=0.310000
 	genes={ 		hair_color={ 121 223 139 94 }
  		skin_color={ 100 65 100 49 }
@@ -96,26 +96,24 @@ historical_export_easteregg_joel_hansson={
  		expression_other={ "cheek_wrinkles_both_01" 255 "cheek_wrinkles_left_01" 127 }
  		complexion={ "complexion_4" 184 "complexion_4" 184 }
  		gene_height={ "normal_height" 188 "normal_height" 122 }
- 		gene_bs_body_type={ "body_average" 100 "body_average" 0 }
- 		gene_bs_body_shape={ "body_shape_apple_half" 79 "body_shape_apple_half" 59 }
- 		gene_bs_bust={ "bust_clothes" 90 "bust_shape_1_half" 113 }
+ 		gene_bs_body_type={ "body_average" 95 "body_average" 0 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 59 "body_shape_apple_half" 59 }
+ 		gene_bs_bust={ "bust_clothes" 113 "bust_shape_1_half" 113 }
  		gene_age={ "old_1" 100 "old_1" 94 }
  		gene_eyebrows_shape={ "avg_spacing_low_thickness" 255 "no_eyebrows" 23 }
  		gene_eyebrows_fullness={ "no_eyebrows" 22 "no_eyebrows" 22 }
  		gene_body_hair={ "body_hair_sparse" 153 "body_hair_sparse" 153 }
- 		gene_hair_type={ "hair_straight" 128 "hair_straight" 128 }
- 		gene_baldness={ "no_baldness" 127 "no_baldness" 127 }
+ 		gene_hair_type={ "hair_straight" 0 "hair_straight" 0 }
+ 		gene_baldness={ "no_baldness" 0 "no_baldness" 0 }
  		eye_accessory={ "normal_eyes" 255 "normal_eyes" 104 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 158 "normal_eyelashes" 117 }
  		pose={ "" 255 "" 0 }
- 		cloaks={ "fp1_cloak" 64 "no_cloak" 0 }
- 		gene_bs_cloak={ "cloak" 255 "no_cloak" 0 }
- 		clothes={ "fp1_commoner_clothes" 173 "most_clothes" 0 }
- 		headgear={ "no_headgear" 112 "no_headgear" 0 }
- 		legwear={ "western_common_legwear" 64 "all_legwear" 0 }
- 		gene_shrink_body={ "shrink_all" 255 "" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 38 "all_hairstyles" 0 }
+ 		cloaks={ "no_cloak" 246 "no_cloak" 0 }
+ 		clothes={ "fp1_commoner_clothes" 178 "most_clothes" 0 }
+ 		headgear={ "no_headgear" 246 "no_headgear" 0 }
+ 		legwear={ "western_common_legwear" 55 "all_legwear" 0 }
  }
 	entity={ 807438772 807438772 }
 }

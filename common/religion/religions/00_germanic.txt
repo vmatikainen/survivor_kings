@@ -229,11 +229,7 @@
 			icon = germanic
 			reformed_icon = germanic_reformed
 
-			holy_site = uppsala
-			holy_site = jorvik
-			holy_site = paderborn
-			holy_site = konugardr
-			holy_site = ranaheim
+			holy_site = jenne
 
 			doctrine = unreformed_faith_doctrine
 
